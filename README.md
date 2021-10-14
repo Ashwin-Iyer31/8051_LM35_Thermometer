@@ -9,4 +9,5 @@ Designing a thermometer with 8051 helping us learn to use discrete components su
 7.Check if the display changes values for temperature changes by changing temperature in some way or by simply touching the sensor.<br>
 
 Comments included in the Assembly File explains use of each line.<br>
-Circuit Diagram made using EasyEDA.
+Circuit Diagram made using EasyEDA.<br>
+Directly Clone. Git doesn't understand uvproj files.
