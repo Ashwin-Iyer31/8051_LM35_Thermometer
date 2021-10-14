@@ -8,6 +8,5 @@ Designing a thermometer with 8051 helping us learn to use discrete components su
 6.If any fault occurs, using multimeter measure resistances and capacitances, if they are functioning properly.<br>
 7.Check if the display changes values for temperature changes by changing temperature in some way or by simply touching the sensor.<br>
 
-Comments included in the Assembly File explains use of each line.
-
-![alt text](https://github.com/Ashwin-Iyer31/8051_LM35_Thermometer/edit/main/Circuit Diagram.png)
+Comments included in the Assembly File explains use of each line.<br>
+Circuit Diagram made using EasyEDA.
